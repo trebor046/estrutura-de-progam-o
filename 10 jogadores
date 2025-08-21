@@ -1,0 +1,17 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Melhores jogadores!");
+        System.out.println("1 - Michael Jordan");
+        System.out.println("2 - LeBron James");
+        System.out.println("3 - Kareem Abdul-Jabbar");
+        System.out.println("4 - Magic Johnson");
+        System.out.println("5 - Bill Russell");
+        System.out.println("6 - Shaquille O’Neal");
+        System.out.println("7 - Tim Duncan");
+        System.out.println("8 - Larry Bird");
+        System.out.println("9 - Wilt Chamberlain");
+        System.out.println("10 - Stephen Curry");
+    }
+}
